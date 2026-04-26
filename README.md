@@ -12,7 +12,7 @@ Developed an interactive sales forecasting dashboard to analyze historical sales
 - Region-wise sales distribution
 
 ##📷 Dashboard Preview
-![Dashboard](dashboard-preview.png)
+![Dashboard](dashboard-preview.png.png)
 
 ##📊 Key Insights
 - Sales increase significantly towards the end of the year (Oct–Dec)
