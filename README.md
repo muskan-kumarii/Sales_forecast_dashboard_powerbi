@@ -1,21 +1,28 @@
-#Sales Forecast Dashboard (Power BI)
-##📊 Tools Used
-- Microsoft Power BI
+Sales Forecast Dashboard
 
-##📌 Project Overview
-Developed an interactive sales forecasting dashboard to analyze historical sales data and predict future trends. The dashboard provides insights into sales performance across different categories, regions, and time periods.
+🎯 Objective: 
+Analyze historical sales data and forecast future trends to support business decisions.
 
-##📈 Key Features
-- Yearly sales trend with forecasting
-- Monthly sales analysis
-- Category-wise performance comparison
-- Region-wise sales distribution
+🛠️ Tools:
+Power BI, Excel
 
-##📷 Dashboard Preview
+📈 Key Features:
+- Sales & profit analysis
+- Region & category insights
+- 15-day sales forecast
+- Interactive dashboard
+
+🔍 Key Insights:
+- Sales increase significantly towards the end of the year (Oct–Dec).
+- Technology category has the highest sales contribution.
+- West region dominates overall sales.
+- Forecast shows a steady upward trend.
+
+💡 Recommendations:
+- Increase stock before festive months.
+- Focus on high-performing regions.
+- Improve online payment adoption.
+- Optimize low-margin categories.
+
+📷 Dashboard Preview:
 ![Dashboard](dashboard-preview.png.png)
-
-##📊 Key Insights
-- Sales increase significantly towards the end of the year (Oct–Dec)
-- Technology category has the highest sales contribution
-- West region dominates overall sales
-- Forecast shows a steady upward trend
